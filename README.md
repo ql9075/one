@@ -11,3 +11,6 @@ https://github.com/ql9075/one/issues/3
 
 IE在label 标签里使用input：
 https://github.com/ql9075/one/issues/4
+
+关于input 输入控件 右边叉叉的隐藏 
+https://github.com/ql9075/one/issues/5
