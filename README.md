@@ -14,3 +14,6 @@ https://github.com/ql9075/one/issues/4
 
 关于input 输入控件 右边叉叉的隐藏 
 https://github.com/ql9075/one/issues/5
+
+移动端图片
+https://github.com/ql9075/one/issues/6
