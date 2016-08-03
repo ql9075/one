@@ -1,6 +1,6 @@
-爱的记事本
+NOTE
 ==
-
+###工作
 [IE行高](https://github.com/ql9075/one/issues/2 )
 
 [IE在a标签里使用label bug](https://github.com/ql9075/one/issues/3 )
@@ -13,3 +13,5 @@
 
 [转换时间戳](https://github.com/ql9075/one/issues/7 )
 
+###私生活 
+[打卡](https://github.com/ql9075/one/issues/8 )
