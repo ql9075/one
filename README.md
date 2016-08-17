@@ -15,5 +15,7 @@ NOTE
 
 [微信Referrer问题 ](https://github.com/ql9075/one/issues/9)
 
+[REM设置 ](https://github.com/ql9075/one/issues/10)
+
 ###私生活 
 [打卡](https://github.com/ql9075/one/issues/8 )
