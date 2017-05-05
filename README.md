@@ -1,6 +1,6 @@
 NOTE
 ==
-###工作
+### 工作
 [IE行高](https://github.com/ql9075/one/issues/2 )
 
 [IE在a标签里使用label bug](https://github.com/ql9075/one/issues/3 )
@@ -17,5 +17,7 @@ NOTE
 
 [REM设置 ](https://github.com/ql9075/one/issues/10)
 
-###私生活 
+[IOS8 flex](https://github.com/ql9075/one/issues/11)
+
+### 私生活 
 [打卡](https://github.com/ql9075/one/issues/8 )
